@@ -16,6 +16,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlayGarnet \
     FrameworkOverlayGarnet \
     FrameworkOverlayGarnetEsim \
+    LineageSDKOverlayGarnet \
     SettingsOverlayGarnet \
     SettingsProviderOverlayGarnetPoco \
     SettingsProviderOverlayGarnetRedmi \
