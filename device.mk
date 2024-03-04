@@ -15,9 +15,15 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlayGarnet \
     FrameworkOverlayGarnet \
     SettingsOverlayGarnet \
+    SettingsProviderOverlayGarnetPoco \
+    SettingsProviderOverlayGarnetRedmi \
+    SettingsProviderOverlayGarnetRedmiCN \
     SystemUIOverlayGarnet \
     TelephonyOverlayGarnet \
-    WifiOverlayGarnet
+    WifiOverlayGarnet \
+    WifiOverlayGarnetPoco \
+    WifiOverlayGarnetRedmi \
+    WifiOverlayGarnetRedmiCN
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
