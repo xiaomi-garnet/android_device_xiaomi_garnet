@@ -14,6 +14,7 @@ $(call inherit-product, vendor/xiaomi/garnet/garnet-vendor.mk)
 PRODUCT_PACKAGES += \
     CarrierConfigOverlayGarnet \
     FrameworkOverlayGarnet \
+    FrameworkOverlayGarnetEsim \
     SettingsOverlayGarnet \
     SettingsProviderOverlayGarnetPoco \
     SettingsProviderOverlayGarnetRedmi \
