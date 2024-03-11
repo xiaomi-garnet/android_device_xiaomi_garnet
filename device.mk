@@ -12,6 +12,7 @@ $(call inherit-product, vendor/xiaomi/garnet/garnet-vendor.mk)
 
 # Overlay
 PRODUCT_PACKAGES += \
+    ApertureOverlayGarnet \
     CarrierConfigOverlayGarnet \
     FrameworkOverlayGarnet \
     FrameworkOverlayGarnetEsim \
